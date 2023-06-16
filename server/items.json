@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Eloquent Javascript",
+        "author": "Marijn Haverbeke",
+        "priceInCents": 2000,
+        "file": "Eloquent-Javascript.txt",
+        "listId": 3,
+        "category": "Tech&IT",
+        "img": "https://m.media-amazon.com/images/I/91m4TmoRMxL._AC_UF1000,1000_QL80_.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse et hic assumenda omnis earum delectus beatae! Unde impedit, eos quia aliquid"
+    },
+    {
+        "id": 2,
+        "name": "King Richard III",
+        "author": "William Shakespeare",
+        "priceInCents": 1000,
+        "file": "King-Richard-III.txt",
+        "listId": 4,
+        "category": "Novels",
+        "img": "https://m.media-amazon.com/images/I/51kFNIryhGL.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse et hic assumenda omnis earum delectus beatae! Unde impedit, eos quia aliquid"
+    },
+    { 
+        "id": 3,
+        "name": "The Complete Poetry of Edgar Allan Poe",
+        "author": "Edgar Allan Poe",
+        "priceInCents": 3000,
+        "file": "The-Complete-Poetry-of-Edgar-Allan-Poe.txt",
+        "listId": 5,
+        "category": "Novels",
+        "img": "https://mcdn.elefant.ro/mnresize/1000/-/images/68/431368/the-complete-poetry-of-edgar-allan-poe-paperback_1_fullsize.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse et hic assumenda omnis earum delectus beatae! Unde impedit, eos quia aliquid"
+    },
+    {
+        "id": 4,
+        "name": "Greenlights",
+        "author": "Matthew McConaughey",
+        "priceInCents": 3000,
+        "file": "Greenlights.txt",
+        "listId": 6,
+        "category": "Biography",
+        "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604281659i/52838315.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse et hic assumenda omnis earum delectus beatae! Unde impedit, eos quia aliquid"
+    },
+    {
+        "id": 5,
+        "name": "Mandela - Long walk to freedom",
+        "author": "Nelson Mandela",
+        "priceInCents": 3000,
+        "file": "Mandela-Long-walk-to-freedom.txt",
+        "listId": 7,
+        "category": "Biography",
+        "img": "https://m.media-amazon.com/images/I/419OYxCDztL._AC_UF894,1000_QL80_.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse et hic assumenda omnis earum delectus beatae! Unde impedit, eos quia aliquid"
+    },
+    {
+        "id": 6,
+        "name": "UX For Dummies",
+        "author": "Donald Chesnut",
+        "priceInCents": 3000,
+        "file": "UX-For-Dummies.txt",
+        "listId": 8,
+        "category": "Tech&IT",
+        "img": "https://s13emagst.akamaized.net/products/43349/43348118/images/res_9981ccb075cce634f810a93346052873.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse et hic assumenda omnis earum delectus beatae! Unde impedit, eos quia aliquid"
+    },
+    {
+        "id": 7,
+        "name": "Underland",
+        "author": "Robert Macfarlane",
+        "priceInCents": 3000,
+        "file": "Underland.txt",
+        "listId": 9,
+        "category": "Novels",
+        "img": "https://cdn.waterstones.com/override/v1/large/9780/1410/9780141030579.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse et hic assumenda omnis earum delectus beatae! Unde impedit, eos quia aliquid"
+    },
+    {
+        "id": 8,
+        "name": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "priceInCents": 3000,
+        "file": "Designing-Data-Intensive-Applications.txt",
+        "listId": 10,
+        "category": "Tech&IT",
+        "img": "https://scaleablethinking.files.wordpress.com/2021/05/img_2550.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse et hic assumenda omnis earum delectus beatae! Unde impedit, eos quia aliquid"
+    }
+]
