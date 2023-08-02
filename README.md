@@ -1,6 +1,6 @@
 # Ecommerce-Books-Store
 
-Ecommerce store where users can purchase ebooks. </br>
+eCommerce store where users can purchase eBooks. </br>
 
 Main features: </br>
 
